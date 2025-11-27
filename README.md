@@ -4,20 +4,13 @@
 
 ## 🚀 Setup Instructions (How to Run Locally)
 
-### 1. Clone the Repository
-
-```bash
-git clone <your-repo-url>
-cd file-upload-test-task
-```
-
-### 2. Install Dependencies
+### 1. Install Dependencies
 
 ```bash
 yarn install
 ```
 
-### 3. Create `.env.local` File
+### 2. Create `.env.local` File
 
 Create a file in the root directory named:
 
@@ -27,7 +20,7 @@ Create a file in the root directory named:
 
 Add the required environment variables (see the next section).
 
-### 4. Run the Development Server
+### 3. Run the Development Server
 
 ```bash
 yarn dev
